@@ -18,11 +18,5 @@ char *string_toupper(char *s)
 	}
 
 	return (s);
-}
-
-
-
-		
-		
+	return (s);
 	
-
